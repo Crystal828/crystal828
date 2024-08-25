@@ -202,7 +202,7 @@ span{
 }
 
 .typing-text span::before{
-    content: "Game-Developer";
+    content: "UR PASSION";
     color: #b74b4b;
     animation: words 20s infinite;
 }
@@ -226,16 +226,16 @@ span{
 
 @keyframes words{
     0%, 20%{
-        content: "Studying Class-11";
+        content: "WUT U WANT";
     }
     21%, 40%{
-        content: "Building My Own Game";
+        content: "ENTER HERE";
     }
     41%, 60%{
-        content: "Studying In ABSM-TT";
+        content: "TO CHANGE";
     }
     61%, 100%{
-        content: "Finally Built My Portfolio";
+        content: "TO MAKE OUTPUT";
     }
 }
 
